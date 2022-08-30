@@ -6,3 +6,5 @@ Banana
 Cherries
 Carrots
 Cabbage
+Potato
+Raddish
